@@ -25,7 +25,6 @@ C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1\Work.pdb
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.csprojAssemblyReference.cache
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form1.resources
-C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form2.resources
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form3.resources
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form4.resources
 C:\Users\user\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form5.resources

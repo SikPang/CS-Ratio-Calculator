@@ -22,11 +22,7 @@ namespace Work
             label1.Text = "오늘도 화이팅!";
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Form2 fm = new Form2();
-            fm.Show();
-        }
+
 
 
         private void button2_Click(object sender, EventArgs e)
