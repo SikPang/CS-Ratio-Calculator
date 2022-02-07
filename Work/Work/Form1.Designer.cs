@@ -81,11 +81,11 @@ namespace Work
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(309, 374);
+            this.label2.Location = new System.Drawing.Point(301, 374);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 20);
+            this.label2.Size = new System.Drawing.Size(43, 20);
             this.label2.TabIndex = 5;
-            this.label2.Text = "v1.0";
+            this.label2.Text = "v1.01";
             // 
             // Form1
             // 

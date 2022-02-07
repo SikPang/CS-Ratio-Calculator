@@ -38,5 +38,20 @@ namespace Work
 
             return result;
         }
+
+        public static double Round(double value)
+        {
+            int result=0;
+            string s = value.ToString();
+
+            if (s[s.Length - 1] >= 5)
+            {
+                return Math.Ceiling(value);
+            }
+            else
+            {
+                return Math.Truncate(value);
+            }
+        }
     }
 }

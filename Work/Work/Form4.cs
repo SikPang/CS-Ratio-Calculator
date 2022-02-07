@@ -25,14 +25,14 @@ namespace Work
             {
                 double fee = Double.Parse(textBox1.Text) * (Double.Parse(textBox2.Text) / 100);
                 double result2Text = (Double.Parse(textBox4.Text) - Double.Parse(textBox1.Text) - fee - Double.Parse(textBox3.Text));
-                result2.Text = Comma.appendComma(Math.Round(result2Text,1));
+                result2.Text = Comma.appendComma(Comma.Round(result2Text));
 
                 result3.Text = Comma.appendComma(Math.Round((result2Text / Double.Parse(textBox1.Text)) * 100,1)) + "%";
 
                 if(textBox5.Text == "")
-                    result1.Text = Comma.appendComma(Math.Round(result2Text, 1));
+                    result1.Text = Comma.appendComma(Comma.Round(result2Text));
                 else
-                    result1.Text = Comma.appendComma(Math.Round(result2Text * (Double.Parse(textBox5.Text)),1));
+                    result1.Text = Comma.appendComma(Comma.Round(result2Text * (Double.Parse(textBox5.Text))));
             }
         }
 

@@ -29,9 +29,9 @@ namespace Work
                 double krw = Math.Round(Double.Parse(textBox1.Text) * Double.Parse(textBox7.Text),1);
 
                 // --- 전체 ---
-                result8.Text = Comma.appendComma((int)krw);
+                result8.Text = Comma.appendComma(Comma.Round(krw));
 
-                double result1Text = krw + Double.Parse(textBox2.Text) + Double.Parse(textBox3.Text) + Double.Parse(textBox5.Text) + Double.Parse(textBox6.Text);
+                double result1Text = Comma.Round(krw) + Double.Parse(textBox2.Text) + Double.Parse(textBox3.Text) + Double.Parse(textBox5.Text) + Double.Parse(textBox6.Text);
                 result1.Text = Comma.appendComma((int)Math.Round(result1Text,1));
 
                 double result2Text = result1Text / krw * 100;
@@ -42,10 +42,10 @@ namespace Work
 
                 // --- 개당 ---
                 double result7Text = krw / Double.Parse(textBox4.Text); // 매입가
-                result7.Text = Comma.appendComma((int)Math.Round(result7Text,1));
+                result7.Text = Comma.appendComma(Comma.Round(result7Text));
 
                 double result4Text = result1Text / Double.Parse(textBox4.Text);
-                result4.Text = Comma.appendComma((int)Math.Round(result4Text,1));
+                result4.Text = Comma.appendComma(Comma.Round(result4Text));
             }
         }
 
