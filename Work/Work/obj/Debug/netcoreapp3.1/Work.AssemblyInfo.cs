@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Work")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ratio Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Work")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Work")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ratio Calculator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ratio Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

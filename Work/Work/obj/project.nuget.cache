@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+DTHPIK/rxaaT6OPbvqIYs7uSWHi7p0FenhGLu+DIN1UiK4DzG1htTkpi/D+mZ61LMyaH9kFWnB4NxsLGXaOcQ==",
+  "dgSpecHash": "kRaXX6Y/KuVH/hIg56C5cA1Fi+DF/ykmgusZw6uRpmdPzFO1WhIZy9JQtadpzNZo0U6t7/YUetlb840ubeo1kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\CS-Ratio-Calculator\\Work\\Work\\Work.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Song\\source\\repos\\CS-Ratio-Calculator\\Work\\Work\\Work.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Song\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Song\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Song\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Song\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

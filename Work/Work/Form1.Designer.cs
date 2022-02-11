@@ -40,9 +40,10 @@ namespace Work
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(80, 40);
+            this.label1.Location = new System.Drawing.Point(62, 30);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(202, 20);
+            this.label1.Size = new System.Drawing.Size(162, 15);
             this.label1.TabIndex = 1;
             this.label1.Text = "필요하신 항목을 눌러주세요.";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -50,19 +51,21 @@ namespace Work
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(95, 100);
+            this.button2.Location = new System.Drawing.Point(74, 75);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(164, 61);
+            this.button2.Size = new System.Drawing.Size(128, 46);
             this.button2.TabIndex = 2;
-            this.button2.Text = "판매 원가";
+            this.button2.Text = "원가 산정";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(95, 200);
+            this.button3.Location = new System.Drawing.Point(74, 150);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(164, 61);
+            this.button3.Size = new System.Drawing.Size(128, 46);
             this.button3.TabIndex = 3;
             this.button3.Text = "순이익";
             this.button3.UseVisualStyleBackColor = true;
@@ -70,9 +73,10 @@ namespace Work
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(95, 300);
+            this.button4.Location = new System.Drawing.Point(74, 225);
+            this.button4.Margin = new System.Windows.Forms.Padding(2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(164, 61);
+            this.button4.Size = new System.Drawing.Size(128, 46);
             this.button4.TabIndex = 4;
             this.button4.Text = "단순 비율";
             this.button4.UseVisualStyleBackColor = true;
@@ -81,23 +85,26 @@ namespace Work
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(301, 374);
+            this.label2.Location = new System.Drawing.Point(236, 278);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 20);
+            this.label2.Size = new System.Drawing.Size(30, 15);
             this.label2.TabIndex = 5;
-            this.label2.Text = "v1.01";
+            this.label2.Text = "v1.1";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(356, 403);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.ClientSize = new System.Drawing.Size(277, 302);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "비율 계산 프로그램";
             this.ResumeLayout(false);
