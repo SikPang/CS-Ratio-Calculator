@@ -64,6 +64,39 @@ namespace Work
             this.label16 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.label17 = new System.Windows.Forms.Label();
+            this.textBox2_6 = new System.Windows.Forms.TextBox();
+            this.textBox2_4 = new System.Windows.Forms.TextBox();
+            this.textBox2_1 = new System.Windows.Forms.TextBox();
+            this.label18 = new System.Windows.Forms.Label();
+            this.textBox3_6 = new System.Windows.Forms.TextBox();
+            this.textBox3_4 = new System.Windows.Forms.TextBox();
+            this.textBox3_1 = new System.Windows.Forms.TextBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.textBox4_6 = new System.Windows.Forms.TextBox();
+            this.textBox4_4 = new System.Windows.Forms.TextBox();
+            this.textBox4_1 = new System.Windows.Forms.TextBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.result2_4 = new System.Windows.Forms.TextBox();
+            this.result2_1 = new System.Windows.Forms.TextBox();
+            this.result2_7 = new System.Windows.Forms.TextBox();
+            this.result2_8 = new System.Windows.Forms.TextBox();
+            this.result2_3 = new System.Windows.Forms.TextBox();
+            this.result2_2 = new System.Windows.Forms.TextBox();
+            this.label21 = new System.Windows.Forms.Label();
+            this.result3_4 = new System.Windows.Forms.TextBox();
+            this.result3_1 = new System.Windows.Forms.TextBox();
+            this.result3_7 = new System.Windows.Forms.TextBox();
+            this.result3_8 = new System.Windows.Forms.TextBox();
+            this.result3_3 = new System.Windows.Forms.TextBox();
+            this.result3_2 = new System.Windows.Forms.TextBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.result4_4 = new System.Windows.Forms.TextBox();
+            this.result4_1 = new System.Windows.Forms.TextBox();
+            this.result4_7 = new System.Windows.Forms.TextBox();
+            this.result4_8 = new System.Windows.Forms.TextBox();
+            this.result4_3 = new System.Windows.Forms.TextBox();
+            this.result4_2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -196,7 +229,7 @@ namespace Work
             // 
             // result4
             // 
-            this.result4.BackColor = System.Drawing.SystemColors.Control;
+            this.result4.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4.Location = new System.Drawing.Point(164, 207);
             this.result4.Margin = new System.Windows.Forms.Padding(2);
@@ -208,7 +241,7 @@ namespace Work
             // 
             // result7
             // 
-            this.result7.BackColor = System.Drawing.SystemColors.Control;
+            this.result7.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result7.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result7.Location = new System.Drawing.Point(644, 207);
             this.result7.Margin = new System.Windows.Forms.Padding(2);
@@ -240,7 +273,7 @@ namespace Work
             // 
             // result1
             // 
-            this.result1.BackColor = System.Drawing.SystemColors.Control;
+            this.result1.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result1.Location = new System.Drawing.Point(44, 207);
             this.result1.Margin = new System.Windows.Forms.Padding(2);
@@ -252,7 +285,7 @@ namespace Work
             // 
             // result8
             // 
-            this.result8.BackColor = System.Drawing.SystemColors.Control;
+            this.result8.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result8.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result8.Location = new System.Drawing.Point(524, 207);
             this.result8.Margin = new System.Windows.Forms.Padding(2);
@@ -274,7 +307,7 @@ namespace Work
             // 
             // result3
             // 
-            this.result3.BackColor = System.Drawing.SystemColors.Control;
+            this.result3.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3.Location = new System.Drawing.Point(284, 207);
             this.result3.Margin = new System.Windows.Forms.Padding(2);
@@ -286,7 +319,7 @@ namespace Work
             // 
             // result2
             // 
-            this.result2.BackColor = System.Drawing.SystemColors.Control;
+            this.result2.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.result2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result2.Location = new System.Drawing.Point(404, 207);
             this.result2.Margin = new System.Windows.Forms.Padding(2);
@@ -413,12 +446,432 @@ namespace Work
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(25, 97);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(14, 15);
+            this.label17.TabIndex = 33;
+            this.label17.Text = "2";
+            this.label17.Visible = false;
+            // 
+            // textBox2_6
+            // 
+            this.textBox2_6.Location = new System.Drawing.Point(524, 94);
+            this.textBox2_6.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2_6.Name = "textBox2_6";
+            this.textBox2_6.Size = new System.Drawing.Size(107, 23);
+            this.textBox2_6.TabIndex = 31;
+            this.textBox2_6.Text = "0";
+            this.textBox2_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox2_6.Visible = false;
+            // 
+            // textBox2_4
+            // 
+            this.textBox2_4.Location = new System.Drawing.Point(644, 94);
+            this.textBox2_4.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2_4.Name = "textBox2_4";
+            this.textBox2_4.Size = new System.Drawing.Size(108, 23);
+            this.textBox2_4.TabIndex = 32;
+            this.textBox2_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox2_4.Visible = false;
+            // 
+            // textBox2_1
+            // 
+            this.textBox2_1.Location = new System.Drawing.Point(44, 94);
+            this.textBox2_1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox2_1.Name = "textBox2_1";
+            this.textBox2_1.Size = new System.Drawing.Size(107, 23);
+            this.textBox2_1.TabIndex = 27;
+            this.textBox2_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox2_1.Visible = false;
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(25, 137);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(14, 15);
+            this.label18.TabIndex = 40;
+            this.label18.Text = "3";
+            this.label18.Visible = false;
+            // 
+            // textBox3_6
+            // 
+            this.textBox3_6.Location = new System.Drawing.Point(524, 134);
+            this.textBox3_6.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox3_6.Name = "textBox3_6";
+            this.textBox3_6.Size = new System.Drawing.Size(107, 23);
+            this.textBox3_6.TabIndex = 38;
+            this.textBox3_6.Text = "0";
+            this.textBox3_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox3_6.Visible = false;
+            // 
+            // textBox3_4
+            // 
+            this.textBox3_4.Location = new System.Drawing.Point(644, 134);
+            this.textBox3_4.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox3_4.Name = "textBox3_4";
+            this.textBox3_4.Size = new System.Drawing.Size(108, 23);
+            this.textBox3_4.TabIndex = 39;
+            this.textBox3_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox3_4.Visible = false;
+            // 
+            // textBox3_1
+            // 
+            this.textBox3_1.Location = new System.Drawing.Point(44, 134);
+            this.textBox3_1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox3_1.Name = "textBox3_1";
+            this.textBox3_1.Size = new System.Drawing.Size(107, 23);
+            this.textBox3_1.TabIndex = 34;
+            this.textBox3_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox3_1.Visible = false;
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(25, 176);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(14, 15);
+            this.label19.TabIndex = 47;
+            this.label19.Text = "4";
+            this.label19.Visible = false;
+            // 
+            // textBox4_6
+            // 
+            this.textBox4_6.Location = new System.Drawing.Point(524, 174);
+            this.textBox4_6.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox4_6.Name = "textBox4_6";
+            this.textBox4_6.Size = new System.Drawing.Size(107, 23);
+            this.textBox4_6.TabIndex = 45;
+            this.textBox4_6.Text = "0";
+            this.textBox4_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox4_6.Visible = false;
+            // 
+            // textBox4_4
+            // 
+            this.textBox4_4.Location = new System.Drawing.Point(644, 174);
+            this.textBox4_4.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox4_4.Name = "textBox4_4";
+            this.textBox4_4.Size = new System.Drawing.Size(108, 23);
+            this.textBox4_4.TabIndex = 46;
+            this.textBox4_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox4_4.Visible = false;
+            // 
+            // textBox4_1
+            // 
+            this.textBox4_1.Location = new System.Drawing.Point(44, 174);
+            this.textBox4_1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox4_1.Name = "textBox4_1";
+            this.textBox4_1.Size = new System.Drawing.Size(107, 23);
+            this.textBox4_1.TabIndex = 41;
+            this.textBox4_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox4_1.Visible = false;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(24, 277);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(14, 15);
+            this.label20.TabIndex = 54;
+            this.label20.Text = "2";
+            this.label20.Visible = false;
+            // 
+            // result2_4
+            // 
+            this.result2_4.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_4.Location = new System.Drawing.Point(164, 277);
+            this.result2_4.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_4.Name = "result2_4";
+            this.result2_4.ReadOnly = true;
+            this.result2_4.Size = new System.Drawing.Size(107, 16);
+            this.result2_4.TabIndex = 53;
+            this.result2_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_4.Visible = false;
+            // 
+            // result2_1
+            // 
+            this.result2_1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_1.Location = new System.Drawing.Point(43, 277);
+            this.result2_1.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_1.Name = "result2_1";
+            this.result2_1.ReadOnly = true;
+            this.result2_1.Size = new System.Drawing.Size(107, 16);
+            this.result2_1.TabIndex = 49;
+            this.result2_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_1.Visible = false;
+            // 
+            // result2_7
+            // 
+            this.result2_7.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_7.Location = new System.Drawing.Point(643, 277);
+            this.result2_7.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_7.Name = "result2_7";
+            this.result2_7.ReadOnly = true;
+            this.result2_7.Size = new System.Drawing.Size(107, 16);
+            this.result2_7.TabIndex = 52;
+            this.result2_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_7.Visible = false;
+            // 
+            // result2_8
+            // 
+            this.result2_8.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_8.Location = new System.Drawing.Point(524, 277);
+            this.result2_8.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_8.Name = "result2_8";
+            this.result2_8.ReadOnly = true;
+            this.result2_8.Size = new System.Drawing.Size(107, 16);
+            this.result2_8.TabIndex = 48;
+            this.result2_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_8.Visible = false;
+            // 
+            // result2_3
+            // 
+            this.result2_3.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_3.Location = new System.Drawing.Point(283, 277);
+            this.result2_3.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_3.Name = "result2_3";
+            this.result2_3.ReadOnly = true;
+            this.result2_3.Size = new System.Drawing.Size(107, 16);
+            this.result2_3.TabIndex = 51;
+            this.result2_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_3.Visible = false;
+            // 
+            // result2_2
+            // 
+            this.result2_2.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.result2_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result2_2.Location = new System.Drawing.Point(403, 277);
+            this.result2_2.Margin = new System.Windows.Forms.Padding(2);
+            this.result2_2.Name = "result2_2";
+            this.result2_2.ReadOnly = true;
+            this.result2_2.Size = new System.Drawing.Size(107, 16);
+            this.result2_2.TabIndex = 50;
+            this.result2_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result2_2.Visible = false;
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(25, 350);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(14, 15);
+            this.label21.TabIndex = 61;
+            this.label21.Text = "3";
+            this.label21.Visible = false;
+            // 
+            // result3_4
+            // 
+            this.result3_4.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_4.Location = new System.Drawing.Point(164, 347);
+            this.result3_4.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_4.Name = "result3_4";
+            this.result3_4.ReadOnly = true;
+            this.result3_4.Size = new System.Drawing.Size(107, 16);
+            this.result3_4.TabIndex = 60;
+            this.result3_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_4.Visible = false;
+            // 
+            // result3_1
+            // 
+            this.result3_1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_1.Location = new System.Drawing.Point(44, 347);
+            this.result3_1.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_1.Name = "result3_1";
+            this.result3_1.ReadOnly = true;
+            this.result3_1.Size = new System.Drawing.Size(107, 16);
+            this.result3_1.TabIndex = 56;
+            this.result3_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_1.Visible = false;
+            // 
+            // result3_7
+            // 
+            this.result3_7.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_7.Location = new System.Drawing.Point(643, 347);
+            this.result3_7.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_7.Name = "result3_7";
+            this.result3_7.ReadOnly = true;
+            this.result3_7.Size = new System.Drawing.Size(107, 16);
+            this.result3_7.TabIndex = 59;
+            this.result3_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_7.Visible = false;
+            // 
+            // result3_8
+            // 
+            this.result3_8.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_8.Location = new System.Drawing.Point(524, 347);
+            this.result3_8.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_8.Name = "result3_8";
+            this.result3_8.ReadOnly = true;
+            this.result3_8.Size = new System.Drawing.Size(107, 16);
+            this.result3_8.TabIndex = 55;
+            this.result3_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_8.Visible = false;
+            // 
+            // result3_3
+            // 
+            this.result3_3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_3.Location = new System.Drawing.Point(283, 347);
+            this.result3_3.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_3.Name = "result3_3";
+            this.result3_3.ReadOnly = true;
+            this.result3_3.Size = new System.Drawing.Size(107, 16);
+            this.result3_3.TabIndex = 58;
+            this.result3_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_3.Visible = false;
+            // 
+            // result3_2
+            // 
+            this.result3_2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result3_2.Location = new System.Drawing.Point(403, 347);
+            this.result3_2.Margin = new System.Windows.Forms.Padding(2);
+            this.result3_2.Name = "result3_2";
+            this.result3_2.ReadOnly = true;
+            this.result3_2.Size = new System.Drawing.Size(107, 16);
+            this.result3_2.TabIndex = 57;
+            this.result3_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result3_2.Visible = false;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(25, 417);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(14, 15);
+            this.label22.TabIndex = 68;
+            this.label22.Text = "4";
+            this.label22.Visible = false;
+            // 
+            // result4_4
+            // 
+            this.result4_4.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_4.Location = new System.Drawing.Point(165, 417);
+            this.result4_4.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_4.Name = "result4_4";
+            this.result4_4.ReadOnly = true;
+            this.result4_4.Size = new System.Drawing.Size(107, 16);
+            this.result4_4.TabIndex = 67;
+            this.result4_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_4.Visible = false;
+            // 
+            // result4_1
+            // 
+            this.result4_1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_1.Location = new System.Drawing.Point(44, 417);
+            this.result4_1.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_1.Name = "result4_1";
+            this.result4_1.ReadOnly = true;
+            this.result4_1.Size = new System.Drawing.Size(107, 16);
+            this.result4_1.TabIndex = 63;
+            this.result4_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_1.Visible = false;
+            // 
+            // result4_7
+            // 
+            this.result4_7.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_7.Location = new System.Drawing.Point(643, 417);
+            this.result4_7.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_7.Name = "result4_7";
+            this.result4_7.ReadOnly = true;
+            this.result4_7.Size = new System.Drawing.Size(107, 16);
+            this.result4_7.TabIndex = 66;
+            this.result4_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_7.Visible = false;
+            // 
+            // result4_8
+            // 
+            this.result4_8.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_8.Location = new System.Drawing.Point(524, 417);
+            this.result4_8.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_8.Name = "result4_8";
+            this.result4_8.ReadOnly = true;
+            this.result4_8.Size = new System.Drawing.Size(107, 16);
+            this.result4_8.TabIndex = 62;
+            this.result4_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_8.Visible = false;
+            // 
+            // result4_3
+            // 
+            this.result4_3.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_3.Location = new System.Drawing.Point(285, 417);
+            this.result4_3.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_3.Name = "result4_3";
+            this.result4_3.ReadOnly = true;
+            this.result4_3.Size = new System.Drawing.Size(107, 16);
+            this.result4_3.TabIndex = 65;
+            this.result4_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_3.Visible = false;
+            // 
+            // result4_2
+            // 
+            this.result4_2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.result4_2.Location = new System.Drawing.Point(405, 417);
+            this.result4_2.Margin = new System.Windows.Forms.Padding(2);
+            this.result4_2.Name = "result4_2";
+            this.result4_2.ReadOnly = true;
+            this.result4_2.Size = new System.Drawing.Size(107, 16);
+            this.result4_2.TabIndex = 64;
+            this.result4_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.result4_2.Visible = false;
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(783, 254);
+            this.ClientSize = new System.Drawing.Size(784, 254);
+            this.Controls.Add(this.label22);
+            this.Controls.Add(this.result4_4);
+            this.Controls.Add(this.result4_1);
+            this.Controls.Add(this.result4_7);
+            this.Controls.Add(this.result4_8);
+            this.Controls.Add(this.result4_3);
+            this.Controls.Add(this.result4_2);
+            this.Controls.Add(this.label21);
+            this.Controls.Add(this.result3_4);
+            this.Controls.Add(this.result3_1);
+            this.Controls.Add(this.result3_7);
+            this.Controls.Add(this.result3_8);
+            this.Controls.Add(this.result3_3);
+            this.Controls.Add(this.result3_2);
+            this.Controls.Add(this.label20);
+            this.Controls.Add(this.result2_4);
+            this.Controls.Add(this.result2_1);
+            this.Controls.Add(this.result2_7);
+            this.Controls.Add(this.result2_8);
+            this.Controls.Add(this.result2_3);
+            this.Controls.Add(this.result2_2);
+            this.Controls.Add(this.label19);
+            this.Controls.Add(this.textBox4_6);
+            this.Controls.Add(this.textBox4_4);
+            this.Controls.Add(this.textBox4_1);
+            this.Controls.Add(this.label18);
+            this.Controls.Add(this.textBox3_6);
+            this.Controls.Add(this.textBox3_4);
+            this.Controls.Add(this.textBox3_1);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.textBox2_6);
+            this.Controls.Add(this.textBox2_4);
+            this.Controls.Add(this.textBox2_1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox8);
@@ -499,5 +952,38 @@ namespace Work
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.TextBox textBox2_6;
+        private System.Windows.Forms.TextBox textBox2_4;
+        private System.Windows.Forms.TextBox textBox2_1;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.TextBox textBox3_6;
+        private System.Windows.Forms.TextBox textBox3_4;
+        private System.Windows.Forms.TextBox textBox3_1;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.TextBox textBox4_6;
+        private System.Windows.Forms.TextBox textBox4_4;
+        private System.Windows.Forms.TextBox textBox4_1;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.TextBox result2_4;
+        private System.Windows.Forms.TextBox result2_1;
+        private System.Windows.Forms.TextBox result2_7;
+        private System.Windows.Forms.TextBox result2_8;
+        private System.Windows.Forms.TextBox result2_3;
+        private System.Windows.Forms.TextBox result2_2;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.TextBox result3_4;
+        private System.Windows.Forms.TextBox result3_1;
+        private System.Windows.Forms.TextBox result3_7;
+        private System.Windows.Forms.TextBox result3_8;
+        private System.Windows.Forms.TextBox result3_3;
+        private System.Windows.Forms.TextBox result3_2;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.TextBox result4_4;
+        private System.Windows.Forms.TextBox result4_1;
+        private System.Windows.Forms.TextBox result4_7;
+        private System.Windows.Forms.TextBox result4_8;
+        private System.Windows.Forms.TextBox result4_3;
+        private System.Windows.Forms.TextBox result4_2;
     }
 }
