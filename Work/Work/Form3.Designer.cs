@@ -191,7 +191,7 @@ namespace Work
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 37);
-            this.button1.TabIndex = 9;
+            this.button1.TabIndex = 17;
             this.button1.Text = "계산";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -222,7 +222,7 @@ namespace Work
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(107, 22);
-            this.button2.TabIndex = 17;
+            this.button2.TabIndex = 30;
             this.button2.Text = "비우기";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -236,7 +236,7 @@ namespace Work
             this.result4.Name = "result4";
             this.result4.ReadOnly = true;
             this.result4.Size = new System.Drawing.Size(107, 16);
-            this.result4.TabIndex = 16;
+            this.result4.TabIndex = 20;
             this.result4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // result7
@@ -248,7 +248,7 @@ namespace Work
             this.result7.Name = "result7";
             this.result7.ReadOnly = true;
             this.result7.Size = new System.Drawing.Size(107, 16);
-            this.result7.TabIndex = 15;
+            this.result7.TabIndex = 24;
             this.result7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label15
@@ -280,7 +280,7 @@ namespace Work
             this.result1.Name = "result1";
             this.result1.ReadOnly = true;
             this.result1.Size = new System.Drawing.Size(107, 16);
-            this.result1.TabIndex = 11;
+            this.result1.TabIndex = 19;
             this.result1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // result8
@@ -292,7 +292,7 @@ namespace Work
             this.result8.Name = "result8";
             this.result8.ReadOnly = true;
             this.result8.Size = new System.Drawing.Size(107, 16);
-            this.result8.TabIndex = 10;
+            this.result8.TabIndex = 23;
             this.result8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label10
@@ -314,7 +314,7 @@ namespace Work
             this.result3.Name = "result3";
             this.result3.ReadOnly = true;
             this.result3.Size = new System.Drawing.Size(107, 16);
-            this.result3.TabIndex = 13;
+            this.result3.TabIndex = 21;
             this.result3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // result2
@@ -326,7 +326,7 @@ namespace Work
             this.result2.Name = "result2";
             this.result2.ReadOnly = true;
             this.result2.Size = new System.Drawing.Size(107, 16);
-            this.result2.TabIndex = 12;
+            this.result2.TabIndex = 22;
             this.result2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox6
@@ -374,7 +374,7 @@ namespace Work
             this.textBox7.Margin = new System.Windows.Forms.Padding(2);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(78, 23);
-            this.textBox7.TabIndex = 7;
+            this.textBox7.TabIndex = 16;
             this.textBox7.Text = "1200";
             this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -412,7 +412,7 @@ namespace Work
             this.textBox8.Margin = new System.Windows.Forms.Padding(2);
             this.textBox8.Name = "textBox8";
             this.textBox8.Size = new System.Drawing.Size(78, 23);
-            this.textBox8.TabIndex = 8;
+            this.textBox8.TabIndex = 17;
             this.textBox8.Text = "0";
             this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -431,7 +431,7 @@ namespace Work
             this.button3.Location = new System.Drawing.Point(44, 111);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(37, 37);
-            this.button3.TabIndex = 25;
+            this.button3.TabIndex = 98;
             this.button3.Text = "+";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -441,7 +441,7 @@ namespace Work
             this.button4.Location = new System.Drawing.Point(90, 111);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(37, 37);
-            this.button4.TabIndex = 26;
+            this.button4.TabIndex = 99;
             this.button4.Text = "-";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -462,7 +462,7 @@ namespace Work
             this.textBox2_6.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2_6.Name = "textBox2_6";
             this.textBox2_6.Size = new System.Drawing.Size(107, 23);
-            this.textBox2_6.TabIndex = 31;
+            this.textBox2_6.TabIndex = 8;
             this.textBox2_6.Text = "0";
             this.textBox2_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox2_6.Visible = false;
@@ -473,7 +473,7 @@ namespace Work
             this.textBox2_4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2_4.Name = "textBox2_4";
             this.textBox2_4.Size = new System.Drawing.Size(108, 23);
-            this.textBox2_4.TabIndex = 32;
+            this.textBox2_4.TabIndex = 9;
             this.textBox2_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox2_4.Visible = false;
             // 
@@ -483,7 +483,7 @@ namespace Work
             this.textBox2_1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2_1.Name = "textBox2_1";
             this.textBox2_1.Size = new System.Drawing.Size(107, 23);
-            this.textBox2_1.TabIndex = 27;
+            this.textBox2_1.TabIndex = 7;
             this.textBox2_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox2_1.Visible = false;
             // 
@@ -503,7 +503,7 @@ namespace Work
             this.textBox3_6.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3_6.Name = "textBox3_6";
             this.textBox3_6.Size = new System.Drawing.Size(107, 23);
-            this.textBox3_6.TabIndex = 38;
+            this.textBox3_6.TabIndex = 11;
             this.textBox3_6.Text = "0";
             this.textBox3_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox3_6.Visible = false;
@@ -514,7 +514,7 @@ namespace Work
             this.textBox3_4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3_4.Name = "textBox3_4";
             this.textBox3_4.Size = new System.Drawing.Size(108, 23);
-            this.textBox3_4.TabIndex = 39;
+            this.textBox3_4.TabIndex = 12;
             this.textBox3_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox3_4.Visible = false;
             // 
@@ -524,7 +524,7 @@ namespace Work
             this.textBox3_1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3_1.Name = "textBox3_1";
             this.textBox3_1.Size = new System.Drawing.Size(107, 23);
-            this.textBox3_1.TabIndex = 34;
+            this.textBox3_1.TabIndex = 10;
             this.textBox3_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox3_1.Visible = false;
             // 
@@ -544,7 +544,7 @@ namespace Work
             this.textBox4_6.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4_6.Name = "textBox4_6";
             this.textBox4_6.Size = new System.Drawing.Size(107, 23);
-            this.textBox4_6.TabIndex = 45;
+            this.textBox4_6.TabIndex = 14;
             this.textBox4_6.Text = "0";
             this.textBox4_6.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox4_6.Visible = false;
@@ -555,7 +555,7 @@ namespace Work
             this.textBox4_4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4_4.Name = "textBox4_4";
             this.textBox4_4.Size = new System.Drawing.Size(108, 23);
-            this.textBox4_4.TabIndex = 46;
+            this.textBox4_4.TabIndex = 15;
             this.textBox4_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox4_4.Visible = false;
             // 
@@ -565,7 +565,7 @@ namespace Work
             this.textBox4_1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4_1.Name = "textBox4_1";
             this.textBox4_1.Size = new System.Drawing.Size(107, 23);
-            this.textBox4_1.TabIndex = 41;
+            this.textBox4_1.TabIndex = 13;
             this.textBox4_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox4_1.Visible = false;
             // 
@@ -588,7 +588,7 @@ namespace Work
             this.result2_4.Name = "result2_4";
             this.result2_4.ReadOnly = true;
             this.result2_4.Size = new System.Drawing.Size(107, 16);
-            this.result2_4.TabIndex = 53;
+            this.result2_4.TabIndex = 26;
             this.result2_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_4.Visible = false;
             // 
@@ -601,7 +601,7 @@ namespace Work
             this.result2_1.Name = "result2_1";
             this.result2_1.ReadOnly = true;
             this.result2_1.Size = new System.Drawing.Size(107, 16);
-            this.result2_1.TabIndex = 49;
+            this.result2_1.TabIndex = 25;
             this.result2_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_1.Visible = false;
             // 
@@ -614,7 +614,7 @@ namespace Work
             this.result2_7.Name = "result2_7";
             this.result2_7.ReadOnly = true;
             this.result2_7.Size = new System.Drawing.Size(107, 16);
-            this.result2_7.TabIndex = 52;
+            this.result2_7.TabIndex = 30;
             this.result2_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_7.Visible = false;
             // 
@@ -627,7 +627,7 @@ namespace Work
             this.result2_8.Name = "result2_8";
             this.result2_8.ReadOnly = true;
             this.result2_8.Size = new System.Drawing.Size(107, 16);
-            this.result2_8.TabIndex = 48;
+            this.result2_8.TabIndex = 29;
             this.result2_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_8.Visible = false;
             // 
@@ -640,7 +640,7 @@ namespace Work
             this.result2_3.Name = "result2_3";
             this.result2_3.ReadOnly = true;
             this.result2_3.Size = new System.Drawing.Size(107, 16);
-            this.result2_3.TabIndex = 51;
+            this.result2_3.TabIndex = 27;
             this.result2_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_3.Visible = false;
             // 
@@ -653,7 +653,7 @@ namespace Work
             this.result2_2.Name = "result2_2";
             this.result2_2.ReadOnly = true;
             this.result2_2.Size = new System.Drawing.Size(107, 16);
-            this.result2_2.TabIndex = 50;
+            this.result2_2.TabIndex = 28;
             this.result2_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result2_2.Visible = false;
             // 
@@ -676,7 +676,7 @@ namespace Work
             this.result3_4.Name = "result3_4";
             this.result3_4.ReadOnly = true;
             this.result3_4.Size = new System.Drawing.Size(107, 16);
-            this.result3_4.TabIndex = 60;
+            this.result3_4.TabIndex = 32;
             this.result3_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_4.Visible = false;
             // 
@@ -689,7 +689,7 @@ namespace Work
             this.result3_1.Name = "result3_1";
             this.result3_1.ReadOnly = true;
             this.result3_1.Size = new System.Drawing.Size(107, 16);
-            this.result3_1.TabIndex = 56;
+            this.result3_1.TabIndex = 31;
             this.result3_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_1.Visible = false;
             // 
@@ -702,7 +702,7 @@ namespace Work
             this.result3_7.Name = "result3_7";
             this.result3_7.ReadOnly = true;
             this.result3_7.Size = new System.Drawing.Size(107, 16);
-            this.result3_7.TabIndex = 59;
+            this.result3_7.TabIndex = 36;
             this.result3_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_7.Visible = false;
             // 
@@ -715,7 +715,7 @@ namespace Work
             this.result3_8.Name = "result3_8";
             this.result3_8.ReadOnly = true;
             this.result3_8.Size = new System.Drawing.Size(107, 16);
-            this.result3_8.TabIndex = 55;
+            this.result3_8.TabIndex = 35;
             this.result3_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_8.Visible = false;
             // 
@@ -728,7 +728,7 @@ namespace Work
             this.result3_3.Name = "result3_3";
             this.result3_3.ReadOnly = true;
             this.result3_3.Size = new System.Drawing.Size(107, 16);
-            this.result3_3.TabIndex = 58;
+            this.result3_3.TabIndex = 33;
             this.result3_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_3.Visible = false;
             // 
@@ -741,7 +741,7 @@ namespace Work
             this.result3_2.Name = "result3_2";
             this.result3_2.ReadOnly = true;
             this.result3_2.Size = new System.Drawing.Size(107, 16);
-            this.result3_2.TabIndex = 57;
+            this.result3_2.TabIndex = 34;
             this.result3_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result3_2.Visible = false;
             // 
@@ -764,7 +764,7 @@ namespace Work
             this.result4_4.Name = "result4_4";
             this.result4_4.ReadOnly = true;
             this.result4_4.Size = new System.Drawing.Size(107, 16);
-            this.result4_4.TabIndex = 67;
+            this.result4_4.TabIndex = 38;
             this.result4_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_4.Visible = false;
             // 
@@ -777,7 +777,7 @@ namespace Work
             this.result4_1.Name = "result4_1";
             this.result4_1.ReadOnly = true;
             this.result4_1.Size = new System.Drawing.Size(107, 16);
-            this.result4_1.TabIndex = 63;
+            this.result4_1.TabIndex = 37;
             this.result4_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_1.Visible = false;
             // 
@@ -790,7 +790,7 @@ namespace Work
             this.result4_7.Name = "result4_7";
             this.result4_7.ReadOnly = true;
             this.result4_7.Size = new System.Drawing.Size(107, 16);
-            this.result4_7.TabIndex = 66;
+            this.result4_7.TabIndex = 42;
             this.result4_7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_7.Visible = false;
             // 
@@ -803,7 +803,7 @@ namespace Work
             this.result4_8.Name = "result4_8";
             this.result4_8.ReadOnly = true;
             this.result4_8.Size = new System.Drawing.Size(107, 16);
-            this.result4_8.TabIndex = 62;
+            this.result4_8.TabIndex = 41;
             this.result4_8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_8.Visible = false;
             // 
@@ -816,7 +816,7 @@ namespace Work
             this.result4_3.Name = "result4_3";
             this.result4_3.ReadOnly = true;
             this.result4_3.Size = new System.Drawing.Size(107, 16);
-            this.result4_3.TabIndex = 65;
+            this.result4_3.TabIndex = 39;
             this.result4_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_3.Visible = false;
             // 
@@ -829,7 +829,7 @@ namespace Work
             this.result4_2.Name = "result4_2";
             this.result4_2.ReadOnly = true;
             this.result4_2.Size = new System.Drawing.Size(107, 16);
-            this.result4_2.TabIndex = 64;
+            this.result4_2.TabIndex = 40;
             this.result4_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.result4_2.Visible = false;
             // 

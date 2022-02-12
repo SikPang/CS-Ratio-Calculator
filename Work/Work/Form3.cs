@@ -199,8 +199,17 @@ namespace Work
             textBox4.Text = "";
             textBox5.Text = "";
             textBox6.Text = "";
-            //textBox7.Text = "";   // 환율
             textBox8.Text = "";
+            //textBox7.Text = "";   // 환율
+            textBox2_1.Text = "";
+            textBox2_4.Text = "";
+            textBox2_6.Text = "";
+            textBox3_1.Text = "";
+            textBox3_4.Text = "";
+            textBox3_6.Text = "";
+            textBox4_1.Text = "";
+            textBox4_4.Text = "";
+            textBox4_6.Text = "";
 
             result1.Text = "";
             result2.Text = "";
@@ -208,6 +217,24 @@ namespace Work
             result4.Text = "";
             result7.Text = "";
             result8.Text = "";
+            result2_1.Text = "";
+            result2_2.Text = "";
+            result2_3.Text = "";
+            result2_4.Text = "";
+            result2_7.Text = "";
+            result2_8.Text = "";
+            result3_1.Text = "";
+            result3_2.Text = "";
+            result3_3.Text = "";
+            result3_4.Text = "";
+            result3_7.Text = "";
+            result3_8.Text = "";
+            result4_1.Text = "";
+            result4_2.Text = "";
+            result4_3.Text = "";
+            result4_4.Text = "";
+            result4_7.Text = "";
+            result4_8.Text = "";
         }
 
         private void button3_Click(object sender, EventArgs e)  // 케이스 추가 버튼
