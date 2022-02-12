@@ -6,7 +6,7 @@
   
 <img src="https://user-images.githubusercontent.com/87380790/152750958-098c96ab-c741-4ef0-8d48-be0194b84107.PNG" width="30%">
 <br/>
- v1.0
+ v1.1
  <br/>
  
 
