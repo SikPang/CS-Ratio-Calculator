@@ -6,10 +6,11 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\user\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\user\\.nuget\\packages"
+      "C:\\Users\\Song\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Song\\.nuget\\packages"
     ],
     "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

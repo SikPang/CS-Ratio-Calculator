@@ -41,7 +41,6 @@ C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1\Ratio Calculator.runtimeconfig.dev.json
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1\Ratio Calculator.dll
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\bin\Debug\netcoreapp3.1\Ratio Calculator.pdb
-C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.csproj.AssemblyReference.cache
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form1.resources
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form3.resources
 C:\Users\Song\source\repos\CS-Ratio-Calculator\Work\Work\obj\Debug\netcoreapp3.1\Work.Form4.resources

@@ -102,12 +102,12 @@ namespace Work
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(69, 28);
+            this.label1.Location = new System.Drawing.Point(65, 28);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(58, 15);
+            this.label1.Size = new System.Drawing.Size(62, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "매입가($)";
+            this.label1.Text = "매입가 ($)";
             // 
             // label2
             // 
@@ -669,7 +669,7 @@ namespace Work
             // 
             // result3_4
             // 
-            this.result3_4.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_4.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_4.Location = new System.Drawing.Point(164, 347);
             this.result3_4.Margin = new System.Windows.Forms.Padding(2);
@@ -682,7 +682,7 @@ namespace Work
             // 
             // result3_1
             // 
-            this.result3_1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_1.Location = new System.Drawing.Point(44, 347);
             this.result3_1.Margin = new System.Windows.Forms.Padding(2);
@@ -695,7 +695,7 @@ namespace Work
             // 
             // result3_7
             // 
-            this.result3_7.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_7.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_7.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_7.Location = new System.Drawing.Point(643, 347);
             this.result3_7.Margin = new System.Windows.Forms.Padding(2);
@@ -708,7 +708,7 @@ namespace Work
             // 
             // result3_8
             // 
-            this.result3_8.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_8.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_8.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_8.Location = new System.Drawing.Point(524, 347);
             this.result3_8.Margin = new System.Windows.Forms.Padding(2);
@@ -721,7 +721,7 @@ namespace Work
             // 
             // result3_3
             // 
-            this.result3_3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_3.Location = new System.Drawing.Point(283, 347);
             this.result3_3.Margin = new System.Windows.Forms.Padding(2);
@@ -734,7 +734,7 @@ namespace Work
             // 
             // result3_2
             // 
-            this.result3_2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.result3_2.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.result3_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result3_2.Location = new System.Drawing.Point(403, 347);
             this.result3_2.Margin = new System.Windows.Forms.Padding(2);
@@ -757,7 +757,7 @@ namespace Work
             // 
             // result4_4
             // 
-            this.result4_4.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_4.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_4.Location = new System.Drawing.Point(165, 417);
             this.result4_4.Margin = new System.Windows.Forms.Padding(2);
@@ -770,7 +770,7 @@ namespace Work
             // 
             // result4_1
             // 
-            this.result4_1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_1.Location = new System.Drawing.Point(44, 417);
             this.result4_1.Margin = new System.Windows.Forms.Padding(2);
@@ -783,7 +783,7 @@ namespace Work
             // 
             // result4_7
             // 
-            this.result4_7.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_7.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_7.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_7.Location = new System.Drawing.Point(643, 417);
             this.result4_7.Margin = new System.Windows.Forms.Padding(2);
@@ -796,7 +796,7 @@ namespace Work
             // 
             // result4_8
             // 
-            this.result4_8.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_8.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_8.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_8.Location = new System.Drawing.Point(524, 417);
             this.result4_8.Margin = new System.Windows.Forms.Padding(2);
@@ -809,7 +809,7 @@ namespace Work
             // 
             // result4_3
             // 
-            this.result4_3.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_3.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_3.Location = new System.Drawing.Point(285, 417);
             this.result4_3.Margin = new System.Windows.Forms.Padding(2);
@@ -822,7 +822,7 @@ namespace Work
             // 
             // result4_2
             // 
-            this.result4_2.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.result4_2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.result4_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.result4_2.Location = new System.Drawing.Point(405, 417);
             this.result4_2.Margin = new System.Windows.Forms.Padding(2);
